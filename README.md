@@ -16,3 +16,12 @@ If you are curious about my personal life, welcome to Facebook [grischenko.n](ht
 If you care about my managerial skills, call my employees (or employers if you like) for feedback.
 
 If you care about my programmer skills, scroll down.
+
+And this is my attitude towards datascience:
+
+```
+import tensorflow as plt
+import pandas a tf
+import numpy as pd
+import matplotlib.pyplot as np
+```
