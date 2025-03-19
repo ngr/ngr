@@ -21,7 +21,7 @@ And this is my attitude towards datascience:
 
 ```
 import tensorflow as plt
-import pandas a tf
+import pandas as tf
 import numpy as pd
 import matplotlib.pyplot as np
 ```
